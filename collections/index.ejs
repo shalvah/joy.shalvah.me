@@ -1,0 +1,28 @@
+---
+eleventyExcludeFromCollections: true
+title: 🥰
+---
+
+<em>Me, talking about some things that bring me joy.</em>
+
+<h2>Recent notes</h2>
+
+<ul>
+    <% for (let i = collections.all.length - 1; i >= Math.max(0, collections.all.length - 5); i--) { %>
+        <% let post = collections.all[i] %>
+        <li><a href="<%= post.url %>"><%= post.data.title %></a></li>
+    <% } %>
+</ul>
+
+<h2>All collections</h2>
+
+<% let collectionNames = Object.keys(collections).slice(1).sort(); %>
+<ul>
+    <% for (let collectionName of collectionNames) { %>
+        <h3><%= collectionNamesMap[collectionName] %></h3>
+        <% let collection = collections[collectionName] %>
+        <% for (let post of collection) { %>
+            <li><a href="<%= post.url %>"><%= post.data.title %></a></li>
+        <% } %>
+    <% } %>
+</ul>
