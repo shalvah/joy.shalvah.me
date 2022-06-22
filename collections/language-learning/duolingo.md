@@ -3,8 +3,6 @@ title: Thoughts on Duolingo
 date: "2022-03-22"
 ---
 
-# Thoughts on Duolingo
-
 Things I like:
 
 - Like the use of repetition and small chunks

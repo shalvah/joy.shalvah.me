@@ -3,26 +3,50 @@ eleventyExcludeFromCollections: true
 title: 🥰
 ---
 
-<em>Me, talking about some things that bring me joy.</em>
+<Style>
+    li {
+        list-style-position: outside;
+        list-style-type: none;
+    }
 
-<h2>Recent notes</h2>
+    ul {
+        padding-inline-start: 0;
+        margin-block-start: 0;
+    }
+
+    h4 {
+        margin-block-start: 0;
+    }
+</Style>
+
+<br>
+
+<em>Me, talking about some things that bring me joy.</em>
+<small class="muted">Go to <a href="https://blog.shalvah.me">blog.shalvah.me</a> for my technical posts.</small>
+
+<br>
 
 <ul>
+    <h3>Recent notes</h3>
+
     <% for (let i = collections.all.length - 1; i >= Math.max(0, collections.all.length - 5); i--) { %>
         <% let post = collections.all[i] %>
-        <li><a href="<%= post.url %>"><%= post.data.title %></a></li>
+        <li>
+            <a href="<%= post.url %>"><%= post.data.title %></a>
+            &nbsp;&nbsp;<small><small class="muted"><%= formatDate(post.data.date) %></small></small>
+        </li>
     <% } %>
 </ul>
 
-<h2>All collections</h2>
+<h3>All collections</h3>
 
 <% let collectionNames = Object.keys(collections).slice(1).sort(); %>
-<ul>
-    <% for (let collectionName of collectionNames) { %>
-        <h3><%= collectionNamesMap[collectionName] %></h3>
-        <% let collection = collections[collectionName] %>
+<% for (let tag of collectionNames) { %>
+    <ul>
+        <h4 id="collection-<%= tag %>"><%= getCollectionName(tag) %></h4>
+        <% let collection = collections[tag] %>
         <% for (let post of collection) { %>
             <li><a href="<%= post.url %>"><%= post.data.title %></a></li>
         <% } %>
-    <% } %>
-</ul>
+    </ul>
+<% } %>

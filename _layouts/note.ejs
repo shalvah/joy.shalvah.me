@@ -10,21 +10,17 @@ layout: default.ejs
     .collection-name-header > a {
         color: whitesmoke;
     }
-
-    .post-date {
-        opacity: 0.6;
-    }
 </style>
 
 <h2>
     <span class="collection-name-header">
-        <a href="/#<%= tags[0] %>"><%= collectionNamesMap[tags[0]] %></a>
+        <a href="/#collection-<%= tags[0] %>"><%= getCollectionName(tags) %></a>
         /
     </span> <%= title %>
 </h2>
 
-<small class="post-date">
-    <%= new Intl.DateTimeFormat('en-GB', {dateStyle: 'full'}).format(new Date(date)) %>
+<small class="muted">
+    <%= formatDate(date) %>
 </small>
 
 <br>
