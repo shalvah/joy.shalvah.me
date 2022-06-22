@@ -1,8 +1,7 @@
 ---
 title: Curiosity
+date: "2022-03-20"
 ---
-
-# Curiosity
 
 The best tool to learn a language: curiosity. Not Duolingo.
 

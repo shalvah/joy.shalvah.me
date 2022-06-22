@@ -2,4 +2,35 @@
 layout: default.ejs
 ---
 
+<style>
+    .collection-name-header {
+        opacity: 0.3;
+    }
+
+    .collection-name-header > a {
+        color: whitesmoke;
+    }
+
+    .post-date {
+        opacity: 0.6;
+    }
+</style>
+
+<h2>
+    <span class="collection-name-header">
+        <a href="/#<%= tags[0] %>"><%= collectionNamesMap[tags[0]] %></a>
+        /
+    </span> <%= title %>
+</h2>
+
+<small class="post-date">
+    <%= new Intl.DateTimeFormat('en-GB', {dateStyle: 'full'}).format(new Date(date)) %>
+</small>
+
+<br>
+
 <%- content %>
+
+<br>
+
+<div><a href="/">← Back to collections</a></div>
