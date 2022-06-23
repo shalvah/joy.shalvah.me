@@ -1,9 +1,10 @@
 ---
 eleventyExcludeFromCollections: true
-title: 🥰
+eleventyComputed:
+  title: <%= siteTitle %>
 ---
 
-<Style>
+<style>
     li {
         list-style-position: outside;
         list-style-type: none;
@@ -17,11 +18,11 @@ title: 🥰
     h4 {
         margin-block-start: 0;
     }
-</Style>
+</style>
 
 <br>
 
-<em>Me, talking about some things that bring me joy.</em>
+<em><%= siteSubtitle %></em>
 <small class="muted">Go to <a href="https://blog.shalvah.me">blog.shalvah.me</a> for my technical posts.</small>
 
 <br>
