@@ -19,7 +19,7 @@ like it was done by someone who doesn't speak English.
 - Really dislike the lack of in-depth "Tips". Yes, learning by rote is useful,
 but it should also be backed up with deeper explanations of what you're learning.
 - Even worse: no explanation for seeming contradictions or overlaps. Eg:
-  - They teach you "quiet" is „leise“, then later „ruhig“, without ever acknowledging the former, or saying when you might use one or other. 
+  - They teach you "quiet" is „ruhig“, then later „leise“, without ever acknowledging the former, or saying when you might use one or other. 
   - They tell "I'm hungry" is „Ich habe Hunger“ (literally: "I have hunger"), then later introduce „Ich bin hungrig“. No explanation. 
   - They say "really" is „wirklich“, but later use „gut“ ("good") or „sehr“ ("very") sometimes, and fail you if you can't guess the one they want. 
   - They introduce different word orders with zero explanations.
