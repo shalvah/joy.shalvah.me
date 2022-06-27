@@ -1,6 +1,6 @@
 ---
 title: Thoughts on Duolingo
-date: "2022-03-22"
+date: "2022-03-13"
 ---
 
 Likes:
