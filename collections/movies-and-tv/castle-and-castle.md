@@ -1,5 +1,5 @@
 ---
-title: Shows
+title: Castle and Castle
 date: "2021-10-20"
 ---
 Finished Castle and Castle Season 1, and I really liked it!

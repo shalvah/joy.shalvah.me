@@ -1,4 +1,4 @@
 module.exports = {
     layout: "note.ejs",
-    tags: ["shows"]
+    tags: ["movies-and-tv"]
 };

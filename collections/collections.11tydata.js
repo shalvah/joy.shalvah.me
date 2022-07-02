@@ -7,10 +7,9 @@ module.exports = {
     getCollectionName(...tags) {
         let collectionNamesMap = {
             'language-learning': 'Language learning',
-            movies: 'Movies',
-            books: 'Books',
-            shows: 'Shows',
-            games: 'Games',
+            'movies-and-tv': 'Movies and TV',
+            'books': 'Books',
+            'games': 'Games',
         };
         return collectionNamesMap[tags[0]];
     },

@@ -1,5 +1,5 @@
 ---
-title: Duolingo funnies
+title: Duolingo gems
 date: "2022-03-18"
 ---
 
