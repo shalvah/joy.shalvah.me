@@ -14,7 +14,7 @@ All of my top shows are comedy-dramas, because I come to TV to laugh and forget 
 - _Archer_ — I dislike the "Archer is a dick that gets away_ with anything" premise, but the show is definitely witty and genuinely hilarious. King of running gags.
 - _Brooklyn 99_ — One of my first. Thanks to this show, I d_iscovered _Die Hard_ (one of the greatest movies ever) and The Lonely Island (one of favourite music groups).
 - _Everybody Hates Chris_ — A black kid's life. So funny an_d relatable. After watching this show, I searched for "Terry Crews", and that's how I discovered B99.
-_
+
 ### Non-comedy faves_
 Technically, they're still comedies. But they're not always laugh-out-loud funny (although definitely amusing). The main reason I like them is the drama—they're grounded, lighthearted and relatable.
 
@@ -25,11 +25,12 @@ Technically, they're still comedies. But they're not always laugh-out-loud funny
 - _Kim's Convenience_ — A pleasant watch. Hard to not like this show.
 
 ### Honorable mentions
+- _Modern Family_ — Also very funny, but not as consistent as my top ones. 
 - _New Girl_ — Got super funny after the first two seasons (but then dipped in later ones 😢).
 - _The Crew_ — Was skeptical at first, but it turned out to be pretty funny and with some heart.
 - _The Upshaws_ — Also skeptical, but also eventually good. Another "hood" show. I liked that it took on "hard" scenarios (irresponsible dad with baby mama), but in a lighthearted way.
 - _The Good Wife_ — Drama show, but really good drama. Probably one of the few drama shows I really enjoyed. _How To Get Away With Murder_ and _Suits_ started out good but went over the top in a few seasons.
-- _Squid Game_ - Didn't think I'd like this, but I did. It was extremely thought-provoking, a really intense watch (made me emotional at points). But still entertaining.
+- _Squid Game_ - Didn't think I'd like this, but I did. It was extremely thought-provoking, a really intense watch (made me emotional at points), while still being entertaining.
 
 
 ---
