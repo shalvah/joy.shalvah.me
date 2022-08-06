@@ -12,7 +12,7 @@ All of my top shows are comedy-dramas, because I come to TV to laugh and forget 
 - _Lucifer_ - "The devil in L.A.". Brilliant premise, well executed (although they lost their way later on).
 - _The Good Place_ — Such a clever concept, and handled well (until season 3, where it stopped making sense because they were trying to draw it out).
 - _Archer_ — I dislike the "Archer is a dick that gets away_ with anything" premise, but the show is definitely witty and genuinely hilarious. King of running gags.
-- _Brooklyn 99_ — One of my first. Thanks to this show, I d_iscovered _Die Hard_ (one of the greatest movies ever) and The Lonely Island (one of favourite music groups).
+- _Brooklyn 99_ — One of my first. Thanks to this show, I discovered _Die Hard_ (one of the greatest movies ever) and The Lonely Island (one of my favourite music groups).
 - _Everybody Hates Chris_ — A black kid's life. So funny an_d relatable. After watching this show, I searched for "Terry Crews", and that's how I discovered B99.
 
 ### Non-comedy faves_
